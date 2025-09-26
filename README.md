@@ -115,3 +115,7 @@ GTC-Fake-News-Detection/
 
 
 ***
+
+Presentation [link](https://www.canva.com/design/DAG0GhKFj0Q/PabysvyOHhqy8xxAuMFa1w/view?utm_content=DAG0GhKFj0Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25c1023e74)
+
+Demo video [link](https://drive.google.com/file/d/11WqWqOuwaU9NV0QdaYI0UFUn8EoWsOvl/view?usp=sharing)
