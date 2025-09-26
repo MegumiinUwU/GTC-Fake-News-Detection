@@ -60,6 +60,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
+staticfiles/
 
 # Flask stuff:
 instance/
@@ -143,6 +144,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+jojo/
 
 # Spyder project settings
 .spyderproject
@@ -205,3 +207,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Generated datasets & model artifacts
+cleaned_fake_news.csv
+engineered_fake_news_full.csv
+models/*.joblib
+models/*.pkl
